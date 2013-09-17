@@ -1,4 +1,4 @@
-SetupGuide
+Setup Wiki
 ==========
 
-Doc only :)
+Checkout the wiki section. :)
