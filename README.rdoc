@@ -1,3 +1,0 @@
-== Setup Wiki
-
-This repository is doc-only. Check out the {Wiki}[https://github.com/taschetto/SetupWiki/wiki]. :)
